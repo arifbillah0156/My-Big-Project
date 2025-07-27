@@ -8,6 +8,9 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Amiri+Quran&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Scheherazade+New:wght@400;500;600;700&display=swap');
+
+
 
 
 
@@ -159,4 +162,8 @@ body {
   font-family: "Amiri Quran", serif;
   font-weight: 400;
   font-style: normal;
+}
+
+.arabic-font {
+  font-family: 'Scheherazade New', serif;
 }

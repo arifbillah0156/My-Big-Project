@@ -1,9 +1,11 @@
-import HomeSection1 from "@/components/Home/HomeSection1";
+import HolySurahs from "@/components/Home/HolySurahs";
+import PrayerTimes from "@/components/Home/PrayerTimes";
 
 export default function Home() {
   return (
     <div>
-      <HomeSection1 />
+      <PrayerTimes />
+      <HolySurahs />
     </div>
   );
 }
