@@ -24,18 +24,18 @@ const NavbarWithDropdown = () => {
       href: "/Quran/Surah-Ar-Rahman",
       text: "↪ Surah Ar-Rahman"
     },
-    {
-      href: "/Quran/Surah-Al-Kahf",
-      text: "↪ Surah Al-Kahf"
-    },
+    // {
+    //   href: "/Quran/Surah-Al-Kahf",
+    //   text: "↪ Surah Al-Kahf"
+    // },
     {
       href: "/Quran/Surah-Mulk",
       text: "↪ Surah Mulk"
     },
-    {
-      href: "/Quran/Last-Ten-Surah",
-      text: "↪ Last Ten Surah"
-    },
+    // {
+    //   href: "/Quran/Last-Ten-Surah",
+    //   text: "↪ Last Ten Surah"
+    // },
   ]
   // HadithLinks
   const HadithLinks = [
